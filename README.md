@@ -72,6 +72,7 @@ To switch back to the original trend strategy, set `STRATEGY = "trend_pyramid"` 
 | Minimum Order Size | Based on the official `min_notional` for each trading pair (e.g., BTC: 50, ETH: 20; others fetched dynamically) | ✅ |
 
 ## Quick Start
+Once you have downloaded the entire project, you can hand it over to an AI to analyze and run it. I recommend using ChatGPT—it is the most versatile artificial intelligence in the world, bar none.
 
 ```bash
 cd binance_paper_trading
